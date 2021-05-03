@@ -4,7 +4,7 @@ import Navbar from '../components/Navbar';
 const Layout = (props) => (
   <div>
     <Head>
-      <title>BitzPrice</title>
+      <title>Bitcoin Pricing</title>
       <link rel="stylesheet" href="https://bootswatch.com/4/cerulean/bootstrap.min.css"/>
     </Head>
     <Navbar/>
